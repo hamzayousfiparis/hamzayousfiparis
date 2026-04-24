@@ -11,7 +11,7 @@ Mon parcours scientifique m'a formé au traitement rigoureux de données complex
 
 | # | Projet | Description | Stack | Lien |
 |---|--------|-------------|-------|------|
-| 1 | 🔭 **Astrophysique : Détection d'Exoplanètes** | Recherche Master 2 — Traitement de données scientifiques complexes, photométrie des transits, détection de signaux faibles et modélisation statistique. | IDL · Statistiques · Data Science | [Voir le projet](https://github.com/hamzayousfiparis/Astrophysics-Data-Analysis-Exoplanets) |
+| 1 | 🔭 **Astrophysique : Détection d'Exoplanètes & Atmosphère (Sodium)** | Recherche Master 2 — Traitement de données scientifiques complexes, photométrie des transits, détection de signaux faibles et caractérisation atmosphérique. | IDL · Statistiques · Data Science | [Voir le projet](https://github.com/hamzayousfiparis/Astrophysics-Data-Analysis-Exoplanets) |
 | 2 | 🚗 **Accidents Routiers France (BAAC)** | Analyse prédictive sur 2,8M d'usagers — Double modèle ML (AUC > 0.80) — Dashboard Power BI 5 pages | Python · Scikit-Learn · Power BI | [Voir le projet](https://github.com/hamzayousfiparis/Dataanalyst-Accidents-Routiers-France) |
 | 3 | 🛒 **Analyse Ventes Samsung (SQL)** | Analyse SQL multi-tables : top produits, segmentation clients Top 10, optimisation des stocks | SQL · MySQL | [Voir le projet](https://github.com/hamzayousfiparis/SQL-Analyse-Ventes-Samsung) |
 | 4 | 🎢 **Analyse FunPark (Python)** | Analyse d'un parc de loisirs : EDA, statistiques inférentielles, tests d'hypothèses sur l'impact d'une campagne promotionnelle | Python · Pandas · SciPy · Seaborn | [Voir le projet](https://github.com/hamzayousfiparis/Python-Analyse-FunPark) |
