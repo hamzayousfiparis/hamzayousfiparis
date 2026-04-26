@@ -10,14 +10,7 @@ Mon parcours scientifique m'a formé au traitement rigoureux de données complex
 ## 🚀 Mes Projets
 
 | # | Projet | Description | Stack | Lien |
-|---|--------|-------------|-------|------|
-| 1 | 🔭 **Astrophysique : Détection d'Exoplanètes & Atmosphère (Sodium)** | Recherche Master 2 — Traitement de données scientifiques complexes, photométrie des transits, détection de signaux faibles et caractérisation atmosphérique. | IDL · Statistiques · Data Science | [Voir le projet](https://github.com/hamzayousfiparis/Astrophysics-Data-Analysis-Exoplanets) |
-| 2 | 🚗 **Accidents Routiers France (BAAC)** | Analyse prédictive sur 2,8M d'usagers — Double modèle ML (AUC > 0.80) — Dashboard Power BI 5 pages + Présentation PowerPoint | Python · Scikit-Learn · Power BI | [Voir le projet](https://github.com/hamzayousfiparis/Dataanalyst-Accidents-Routiers-France) |
-| 3 | 🛒 **Analyse Ventes Samsung (SQL)** | Analyse SQL multi-tables : top produits, segmentation clients Top 10, optimisation des stocks | SQL · MySQL | [Voir le projet](https://github.com/hamzayousfiparis/SQL-Analyse-Ventes-Samsung) |
-| 4 | 🎢 **Analyse FunPark (Python)** | Analyse d'un parc de loisirs : EDA, statistiques inférentielles, tests d'hypothèses sur l'impact d'une campagne promotionnelle | Python · Pandas · SciPy · Seaborn | [Voir le projet](https://github.com/hamzayousfiparis/Python-Analyse-FunPark) |
-| 5 | ⚡ **Dashboard Énergies Renouvelables Enedis (Power BI)** | Rapport de pilotage stratégique : Power Query, DAX, Drill Through, KPI de production par filière et région | Power BI · DAX · Power Query | [Voir le projet](https://github.com/hamzayousfiparis/PowerBI-Reporting-Enedis) |
-| 6 | 📡 **Dashboard Reporting Commercial SFR (Excel)** | Tableau de bord interactif : taux de churn, adoption 5G, CA — TCD, graphiques dynamiques, segments | Excel · TCD · Slicers | [Voir le projet](https://github.com/hamzayousfiparis/Excel-Reporting-SFR) |
-| 7 | 💄 **Analyse Marketing BelleAura (Excel)** | Analyse ROI des campagnes réseaux sociaux : segmentation par plateforme, tranche d'âge, KPI marketing digital | Excel · TCD · Marketing Analytics | [Voir le projet](https://github.com/hamzayousfiparis/Excel-Analyse-Marketing-BelleAura) |
+| 8 | 🧹 **Automatisation Micro-Entreprise (Ménage/Repassage)** | Site web complet avec Data Pipeline automatisé : collecte via Systeme.io, stockage Google Sheets, génération de devis et notifications SMS/Calendar. | Google Apps Script · IA · Automation | [Voir le projet](https://github.com/hamzayousfiparis/Cleaning-Service-Automation) |
 
 ---
 
@@ -25,30 +18,33 @@ Mon parcours scientifique m'a formé au traitement rigoureux de données complex
 
 Ce tableau synthétise les compétences techniques et métier mises en oeuvre à travers mes 7 projets phares.
 
-| Compétence | Astro | BAAC | FunPark | Enedis | Samsung | SFR | BelleAura |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Compétence | Astro | BAAC | FunPark | Enedis | Samsung | SFR | BelleAura | Micro-Entr |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Langages** | | | | | | | |
-| Python | | ✅ | ✅ | | | | |
-| SQL | | ✅ | | | ✅ | | |
-| IDL | ✅ | | | | | | |
-| DAX | | | | ✅ | | | |
-| **Outils BI** | | | | | | | |
-| Power BI | | ✅ | | ✅ | | | |
-| Excel (TCD, Dashboard) | | | | | | ✅ | ✅ |
-| **Analyse de Données** | | | | | | | |
-| Nettoyage de Données | ✅ | ✅ | ✅ | ✅ | | | |
-| Analyse Exploratoire (EDA) | ✅ | ✅ | ✅ | | | | |
-| Statistiques Inférentielles | ✅ | | ✅ | | | | |
-| **Machine Learning** | | | | | | | |
-| Modélisation Prédictive | | ✅ | | | | | |
-| **Domaines Métier** | | | | | | | |
-| Recherche Scientifique | ✅ | | | | | | |
-| Smart Mobility / Transport | | ✅ | | | | | |
-| Marketing & Ventes | | | ✅ | | ✅ | | ✅ |
-| Énergie | | | | ✅ | | | |
-| Télécommunications | | | | | | ✅ | |
-| Divertissement | | | ✅ | | | | |
-
+| Python | | ✅ | ✅ | | | | | | | 
+| SQL | | ✅ | | | ✅ | | | | | 
+| IDL | ✅ | | | | | | | | | 
+| DAX | | | | ✅ | | | | | | 
+| **Outils BI** | | | | | | | | | | 
+| Power BI | | ✅ | | ✅ | | | | | | 
+| Excel (TCD, Dashboard) | | | | | | ✅ | ✅ | | | 
+| **Analyse de Données** | | | | | | | | | | 
+| Nettoyage de Données | ✅ | ✅ | ✅ | ✅ | | | | | ✅ | 
+| Analyse Exploratoire (EDA) | ✅ | ✅ | ✅ | | | | | | | 
+| Statistiques Inférentielles | ✅ | | ✅ | | | | | | | 
+| **Machine Learning** | | | | | | | | | | 
+| Modélisation Prédictive | | ✅ | | | | | | | | 
+| **Domaines Métier** | | | | | | | | | | 
+| Recherche Scientifique | ✅ | | | | | | | | | 
+| Smart Mobility / Transport | | ✅ | | | | | | | | 
+| Marketing & Ventes | | | ✅ | | ✅ | | ✅ | | ✅ | 
+| Énergie | | | | ✅ | | | | | | 
+| Télécommunications | | | | | | ✅ | | | | 
+| Divertissement | | | ✅ | | | | | | | 
+| **Automatisation & IA** | | | | | | | | |
+| Data Pipeline / Workflow | | | | | | | | ✅ |
+| Google Apps Script | | | | | | | | ✅ |
+| Intégration IA (Code Gen) | | | | | | | | ✅ |
 ---
 
 ## 🎓 Formation
@@ -63,13 +59,13 @@ Ce tableau synthétise les compétences techniques et métier mises en oeuvre à
 
 ## 🛠️ Stack Technique
 
-**Langages & Data :** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy) | SQL (MySQL) | **IDL (Interactive Data Language)**
+**Langages & Data :** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, SciPy) | SQL (MySQL) | **IDL (Interactive Data Language)** | **Google Apps Script**
 
 **Visualisation & BI :** Power BI (DAX, Power Query, Drill Through) | Excel (TCD, Graphiques Croisés Dynamiques, Slicers)
 
 **Machine Learning :** Classification | Random Forest | Feature Engineering | Gestion du déséquilibre de classes
 
-**Outils :** Jupyter Lab | Git & GitHub | Excel Avancé
+**Outils :** Jupyter Lab | Git & GitHub | Excel Avancé | **Systeme.io** | **Automation (Textbelt, Calendar)**
 
 ---
 
