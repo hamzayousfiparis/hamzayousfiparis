@@ -30,7 +30,7 @@ Ce tableau synthétise les compétences techniques et métier mises en œuvre à
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Langages** | | | | | | | | |
 | Python | | ✅ | | ✅ | | | | |
-| SQL | | ✅ | | | | ✅ | | |
+| SQL | | | | | | ✅ | | |
 | IDL | ✅ | | | | | | | |
 | Google Apps Script | | | ✅ | | | | | |
 | DAX | | | | | ✅ | | | |
