@@ -1,5 +1,5 @@
 # Bonjour, je suis Hamza Yousfi 👋
-## Data Analyst | Python · SQL · Power BI · Excel · Machine Learning · IDL · Google Apps Script
+## Data Analyst | Python · SQL · Power BI · Excel · Machine Learning · IDL · Google Apps Script · IA · Automation
 
 Titulaire d'une **attestation de compétences Data Analyst** (Datasuits 2025 — organisme agréé par l'État), d'un **certificat universitaire Data Analyst** de l'**Université Paris 1 Panthéon-Sorbonne**, et d'un **Master 2 en Astrophysique** (détection des exoplanètes par photométrie des transits).
 
